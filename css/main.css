@@ -1,0 +1,117 @@
+body {
+  color: #666;
+  margin: 0px;
+  padding: 0px; }
+
+#kr1 {
+  margin: 0px;
+  padding: 0px;
+  background-image: url("../img/Layer96.png");
+  background-size: 100%;
+  width: 1920px;
+  height: 880px;
+  position: absolute; }
+
+ul li {
+  list-style-type: none;
+  display: inline;
+  margin-left: 50px;
+  font-size: 18px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  margin-left: 50px; }
+
+ul li a {
+  text-decoration: none;
+  list-style-type: none;
+  color: white; }
+
+#sp {
+  text-align: center;
+  width: 1880;
+  margin-top: -63px;
+  list-style-type: none; }
+
+#qwe a:hover {
+  transform-origin: center bottom;
+  transform: rotateX(-90deg) translateY(100%);
+  background-color: #0066FF; }
+
+#logo {
+  margin-left: 287px;
+  margin-top: 20px; }
+
+#iconca {
+  margin-left: 1400px;
+  margin-top: -38px; }
+
+#creat {
+  margin-top: 310px;
+  font-size: 160px;
+  color: white;
+  width: 1920;
+  text-align: center; }
+
+.scroll {
+  text-align: center;
+  margin-top: 100px; }
+
+.block2 {
+  margin: 0px;
+  padding: 0px;
+  background-image: url("../img/about agency.png");
+  background-size: 100%;
+  width: 1920px;
+  height: 880px;
+  position: absolute;
+  margin-top: 880px;
+  text-align: center; }
+
+.kartinki {
+  width: 100%;
+  margin-top: 465px; }
+
+.kartinki img {
+  margin-left: 50px; }
+
+.blk {
+  margin: 0px;
+  padding: 0px;
+  background-image: url("../img/3block.png");
+  background-size: 100%;
+  width: 1920px;
+  height: 1138px;
+  position: absolute;
+  margin-top: 145px; }
+
+.block11 {
+  width: 960px;
+  height: 569px;
+  background-image: url("../img/text1.png");
+  margin-top: 145px; }
+
+.block11 img {
+  margin-left: 960px;
+  width: 960px;
+  height: 569px; }
+
+.block22 img {
+  width: 960px;
+  height: 569px;
+  margin-left: 0px;
+  margin-top: -3px; }
+
+.text2 {
+  width: 880px;
+  height: 569px;
+  background-image: url("../img/text2.png");
+  margin-top: 0px;
+  position: absolute;
+  margin-left: 960px; }
+
+.color {
+  width: 300px;
+  height: 569px;
+  position: absolute;
+  background-color: #f3f3f3;
+  margin-left: 660px; }
