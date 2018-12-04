@@ -115,3 +115,64 @@ ul li a {
   position: absolute;
   background-color: #f3f3f3;
   margin-left: 660px; }
+
+.block4 {
+  margin: 0px;
+  padding: 0px;
+  background-image: url("../img/block4.png");
+  background-size: 100%;
+  width: 1920px;
+  height: 990px;
+  position: absolute;
+  margin-top: 480px;
+  text-align: center; }
+
+.lb {
+  margin-top: 90px; }
+
+.blogi img {
+  margin-left: 30px; }
+
+.blogi {
+  margin-top: 70px; }
+
+.block5 {
+  margin: 0px;
+  padding: 0px;
+  background-image: url("../img/Quick action area.png");
+  background-size: 100%;
+  width: 1920px;
+  height: 355px;
+  position: absolute;
+  margin-top: 1490px;
+  text-align: center; }
+
+.kp {
+  margin-top: 110px; }
+
+.kp img {
+  margin-left: 60px; }
+
+.fonkey {
+  margin: 0px;
+  padding: 0px;
+  background-image: url("../img/Key Feature.png");
+  background-size: 100%;
+  width: 1920px;
+  height: 850px;
+  position: absolute;
+  margin-top: 1840px;
+  text-align: center; }
+
+.mobila {
+  position: absolute;
+  margin-left: 1102px;
+  margin-top: 100px; }
+
+.lorem p {
+  width: 455px;
+  height: 140px;
+  position: absolute;
+  margin-left: 300px;
+  margin-top: 500px;
+  color: white; }
