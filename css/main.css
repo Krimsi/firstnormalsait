@@ -10,8 +10,9 @@ body {
   background-size: 100%;
   width: 1920px;
   height: 880px;
-  position: absolute; }
+  position: absolute; 
 
+}
 ul li {
   list-style-type: none;
   display: inline;
@@ -32,10 +33,11 @@ ul li a {
   margin-top: -63px;
   list-style-type: none; }
 
-#qwe a:hover {
-  transform-origin: center bottom;
-  transform: rotateX(-90deg) translateY(100%);
-  background-color: #0066FF; }
+
+ul li a:hover {
+border-bottom: 5px solid #2868F8; }
+ 
+
 
 #logo {
   margin-left: 287px;
@@ -165,14 +167,60 @@ ul li a {
   text-align: center; }
 
 .mobila {
-  position: absolute;
-  margin-left: 1102px;
+  margin-left: -200px;
   margin-top: 100px; }
 
-.lorem p {
-  width: 455px;
-  height: 140px;
-  position: absolute;
-  margin-left: 300px;
-  margin-top: 500px;
-  color: white; }
+.mobila img {
+  margin-left: 200px; }
+ div.holder {
+   background: #ccc none repeat scroll 0 0;
+   border: 3px solid #666;
+   margin: 5px;
+   padding: 5px;
+   min-height: 0;
+   width: 500px;
+   height: 200px;
+   overflow: auto;
+ }
+ 
+ .black {
+   height: 2000px;
+   background: #000;
+ }
+ 
+ p, h6 {
+   background: red;
+   color: white;
+   font-size:16px;
+   padding: 5px;
+   border: 2px solid #666;
+ }
+
+ a.button2{
+text-decoration:none;
+text-align:center;
+padding:60px 60px;
+
+font-weight:bold;
+color:#ffffff;
+background: url(../img/G.png) no-repeat top right;
+
+
+text-decoration:none;
+text-transform:uppercase;
+}
+.knpv{
+margin-left: 910px;
+margin-top: 160px;
+
+}
+
+.shyler{
+  
+  margin: 0;
+}
+
+.dvigulkakarti{
+  margin-top:90px;
+  border:0px solid red;
+}
